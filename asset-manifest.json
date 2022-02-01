@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56e6221f.css",
+    "main.js": "/static/js/main.384e1601.js",
+    "static/media/Mangan da Kita.mp4": "/static/media/Mangan da Kita.ca9137d569d1416dcb9d.mp4",
+    "static/media/BANNER.jpg": "/static/media/BANNER.b09cd836556752438a14.jpg",
+    "static/media/LOGO.png": "/static/media/LOGO.2fc31dc4addebb1ff8ce.png",
+    "index.html": "/index.html",
+    "main.56e6221f.css.map": "/static/css/main.56e6221f.css.map",
+    "main.384e1601.js.map": "/static/js/main.384e1601.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.384e1601.js"
+  ]
+}
